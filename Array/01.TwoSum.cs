@@ -6,7 +6,6 @@ have exactly one valid solution, and you should not use the same element twice i
 which you return the indices does not matter.
 
 ### Example 1
-
 #### Input
 
 nums = [2, 7, 11, 15]
@@ -15,7 +14,7 @@ Output: [0, 1]
 Explanation
 Because nums[0] + nums[1] == 9, we return [0, 1].
 
-
+```csharp
 public int[] TwoSum(int[] nums, int target)
 {
     if (nums == null || nums.Length == 0)
