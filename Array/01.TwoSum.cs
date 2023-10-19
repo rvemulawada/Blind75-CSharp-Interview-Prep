@@ -8,7 +8,7 @@ which you return the indices does not matter.
 ### Example 1
 
 #### Input
-```csharp
+
 nums = [2, 7, 11, 15]
 target = 9
 Output: [0, 1]
