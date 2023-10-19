@@ -14,7 +14,7 @@ Welcome to the Blind 75 Coding Interview Questions repository, where you can fin
 The Blind 75 coding interview questions are a selection of problems frequently encountered in technical interviews at top technology companies. This repository contains solutions in C# for each of these questions, along with explanations, time complexity, and space complexity analysis.
 
 ## List of Questions
-You can find the complete list of questions in the [Blind 75 LeetCode collection]([https://leetcode.com/list/5hm6y2x](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)). I will provide solutions for all these questions in C#.
+You can find the complete list of questions in the [Blind 75 LeetCode collection](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions). I will provide solutions for all these questions in C#.
 
 ## Directory Structure
 The repository is organized with a directory structure that makes it easy to find the solutions for each question. Here's how it's structured:
