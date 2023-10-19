@@ -5,21 +5,15 @@ Welcome to the Blind 75 Coding Interview Questions repository, where you can fin
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [List of Questions](#list-of-questions)
-3. [Directory Structure](#directory-structure)
-4. [Getting Started](#getting-started)
-5. [Contributing](#contributing)
-6. [License](#license)
+3. [Getting Started](#getting-started)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Introduction
 The Blind 75 coding interview questions are a selection of problems frequently encountered in technical interviews at top technology companies. This repository contains solutions in C# for each of these questions, along with explanations, time complexity, and space complexity analysis.
 
 ## List of Questions
 You can find the complete list of questions in the [Blind 75 LeetCode collection](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions). I will provide solutions for all these questions in C#.
-
-## Directory Structure
-The repository is organized with a directory structure that makes it easy to find the solutions for each question. Here's how it's structured:
-
-Each question has a dedicated directory containing a README with explanations and a C# solution file.
 
 ## Getting Started
 To get started, you can clone this repository and explore the solutions to the coding interview questions. You can also contribute your own solutions and improvements by following the guidelines in the [Contributing](#contributing) section.
